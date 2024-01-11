@@ -20,15 +20,15 @@ In addition to the homework assignments, the Laboratory work including the bonus
 
 - **Lab 1**
    - The Maze and the Random Minotaur (Mandatory)
-        - Tasks included modelling the Gridworld problem and variations using MDPS and                 implementing solutions using Dynamic Programming, Value Iteration, SARSA and Q-              Learning.
+        - Tasks included but not limited to modelling the Gridworld problem and variations using MDPS and implementing solutions using Dynamic Programming, Value Iteration, SARSA and Q-                               Learning.
    - RL with Linear Function Approximation (Bonus)
-        - Task utilized the MountainCar Environment provided by OpenGym library to implement           SARSA(lambda) with linear function approximation using Fourer Basis as                       feature functions.
+        - Task utilized the MountainCar Environment provided by OpenGym library to implement SARSA(lambda) with linear function approximation using Fourer Basis as feature functions.
       
 - **Lab 2**
    - Deep Q-Networks (DQN) (Mandatory)
-        - Task utilized the LunarLander-v2 from the OpenGym library to implement Episodic              DQN with epsilon-greedy exploration and explored the Dueling DQN modification.
+        - Task utilized the LunarLander-v2 from the OpenGym library to implement episodic DQN with epsilon-greedy exploration and explored the Dueling DQN modification.
    - Deep Determnistic Policy Gradient (DDPG) (Bonus)
-        - Task utiized the LunarLanderContinuous-v2 from the OpenGym library to implement              the off-policy model-free RL agorithm DDPG.
+        - Task utilized the LunarLanderContinuous-v2 from the OpenGym library to implement the off-policy model-free RL agorithm DDPG.
    - Proximal Policy Optimization (PPO) (Bonus)
-        - Task utilized the LunarLanderContinuous-v2 from the OpenGym library to implement             the stochastic counterpart to DDPG, PPO.
+        - Task utilized the LunarLanderContinuous-v2 from the OpenGym library to implement the stochastic counterpart to DDPG, PPO.
 
