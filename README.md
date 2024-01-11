@@ -9,10 +9,10 @@ This coursework consists of two homework assignments and two laboratory work.
 ### Homework Assignments
 
 1. **Homework 1 - MDP and Optimal Stopping **
-   - Written Tasks on Modelling using Markov Decision Processes and Optimal Stopping based on Bellman's Equation.
+   - Written Tasks on Modelling using Markov Decision Processes and Optimal Stopping based on Bellman's Equations.
 
 2. **Homework 2 - Q-Learning, SARSA, Policy Gradient and Function Approximation**
-   - Written Taks on tabular Q-learning, tabular Sarsa, policy parameterization in policy gradient and theoretical questions in function approximation.
+   - Written Tasks on Tabular Q-learning, Tabular Sarsa, Policy Parameterization in Policy Gradient and theoretical questions in Function Approximation.
 
 ### Laboratory Work
 
