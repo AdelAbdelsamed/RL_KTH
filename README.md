@@ -1,6 +1,6 @@
-# Reinforcement Learning - EL2705 (Autumn 2023)
+# Reinforcement Learning - EL2805 (Autumn 2023)
 
-Repository for the Reinforcement Learning (RL) coursework. This repository contains the laboratory code and resources for the course homework for the EL2705 course at KTH in the autumn term of 2023. This repository is made with collaboration with Alexander Weers.
+Repository for the Reinforcement Learning (RL) coursework. This repository contains the laboratory code and resources for the course homework for the EL2805 course at KTH in the autumn term of 2023. This repository is made with collaboration with Alexander Weers.
 
 ## Course Overview
 
